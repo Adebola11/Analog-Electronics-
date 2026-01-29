@@ -3,6 +3,8 @@ Temperature Dependence of Diodes
 Simulation Setup
 I simulated a 1N4148 diode in series with a 1kΩ resistor using LTspice. I used the `.temp 25 75` directive to compare behavior at room temperature (25°C) and elevated temperature (75°C).
 A DC sweep was performed from -5V to 5V.
+<img width="1867" height="944" alt="temp_25" src="https://github.com/user-attachments/assets/5283ac34-e36c-4580-aee9-7661bb472f9c" />
+<img width="1857" height="927" alt="temp_75" src="https://github.com/user-attachments/assets/7756a1ca-f984-47fc-9057-0a113f70d1f5" />
 <img width="1602" height="800" alt="diode_temp" src="https://github.com/user-attachments/assets/3d16c885-5c99-4eb8-9f7e-c51c46872b48" />
 
 
